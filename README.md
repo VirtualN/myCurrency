@@ -1,0 +1,2 @@
+# myCurrency
+progetto myCurrency
